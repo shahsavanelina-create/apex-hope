@@ -1,0 +1,22 @@
+h2 {
+  color: #3deccf;; 
+  font-size: 26px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+}
+h3{
+  font-size: :20px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+p{ font-size: 22px; font-family:sans-serif;line-height: 1;}
+li{font-family:sans-serif
+  ;font-size:15px;}  
+ul.related{ list-style:none important!;} 
+aside{background-color: #f7f7f7;
+border-top:5px solid rgb(29, 49, 230) ;
+border-bottom:5px solid rgb(29, 49, 230);
+border-left:5px solid rgb(29, 49, 230);
+border-right:5px solid rgb(29, 49, 230); }
+body{background-color:#6293b4;}
